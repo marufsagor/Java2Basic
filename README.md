@@ -1,0 +1,2 @@
+# Java2Basic
+VowelConsonentCheck_ifElseIf|ForLoop|Switch|SmallLetterCapitalLetterCheck
